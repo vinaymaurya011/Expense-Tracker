@@ -62,6 +62,8 @@ C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\wwwroot\lib\bootstr
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\favicon-16x16.png
+wwwroot\favicon-32x32.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -123,3 +125,5 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\logo.png
+wwwroot\profile.jpg

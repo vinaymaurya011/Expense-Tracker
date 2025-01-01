@@ -130,7 +130,6 @@ C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\Ex
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\scopedcss\bundle\Expense Tracker.styles.css
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\scopedcss\projectbundle\Expense Tracker.bundle.scp.css
-C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\compressed\roir5dbrjd-61n19gt1b8.gz
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\compressed\igwcv491uc-xtxxf3hu2r.gz
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\compressed\1glrxiw49m-bqjiyaj88i.gz
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\compressed\y9ojnks5w9-c2jlpeoesf.gz
@@ -330,4 +329,5 @@ C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\bin\Debug\net9.0\Sy
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\bin\Debug\net9.0\Syncfusion.Licensing.dll
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\Expense Tracker.sourcelink.json
-C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\compressed\jmj4r45z47-shx2xba9vj.gz
+C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\compressed\roir5dbrjd-ihz5u0lihh.gz
+C:\Users\vinay\.Net\Projects\Expense Tracker\Expense Tracker\obj\Debug\net9.0\compressed\jmj4r45z47-ip3tztanwz.gz

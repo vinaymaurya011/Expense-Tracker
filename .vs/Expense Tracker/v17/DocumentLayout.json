@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -31,12 +15,32 @@
       "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vinay\\.net\\projects\\expense tracker\\expense tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C0B0CB-78A9-4A8A-AF3E-CCC47761E050}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +50,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Expense Tracker\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-22T10:51:01.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
-              "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswBkAAAAJAAAAAAAAAA==",
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:53:46.905Z",
+              "WhenOpened": "2024-12-28T06:16:45.624Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T16:29:22.399Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T19:12:44.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddOrEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Category\\AddOrEdit.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\AddOrEdit.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Category\\AddOrEdit.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\Category\\AddOrEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T17:48:59.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Expense Tracker\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwD8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:47:26.723Z",
+              "WhenOpened": "2025-01-01T15:37:04.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Program.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Program.cs",
-              "RelativeToolTip": "Expense Tracker\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAQwCYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T09:50:14.007Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T06:40:46.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:46:24.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:21:33.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T20:31:05.871Z",
+              "WhenOpened": "2024-12-27T14:51:56.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAUwFIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T05:51:38.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T20:31:14.429Z"
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:25:32.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\appsettings.json",
-              "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\appsettings.json",
-              "RelativeToolTip": "Expense Tracker\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T20:42:05.15Z"
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\Projects\\Expense Tracker\\Expense Tracker\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:20:55.343Z"
             }
           ]
         }
